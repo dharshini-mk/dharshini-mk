@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there, I'm Dharshini! 👋<br>🎓 Student | Computer Science and Engineering<br>📚 Currently pursuing BE at Kongu Engineering College, Tamil Nadu.<br>💻 Passionate about programming, web development, and innovative tech solutions.<br><br>I enjoy designing responsive and user-friendly websites.<br>Coding is my path to learning, creating, and solving problems!<br>📫 Connect with Me:<br>LinkedIn - www.linkedin.com/in/dharshinimk | mkdharshini24@gmail.com
 
 
